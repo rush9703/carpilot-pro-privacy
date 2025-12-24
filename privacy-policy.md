@@ -1,6 +1,6 @@
 # Privacy Policy for CarPilot
 
-**Last Updated: December 24, 2024**
+**Last Updated: December 24, 2025**
 
 ## Introduction
 
@@ -52,4 +52,4 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ---
 
-© 2024 CarPilot. All rights reserved.
+© 2025 CarPilot (Created by Lee). All rights reserved.
