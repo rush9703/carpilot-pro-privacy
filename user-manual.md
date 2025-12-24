@@ -1,21 +1,10 @@
 # CarPilot User Manual
 
-Welcome to **CarPilot**, your professional vehicle performance analyzer and track recorder. This manual will help you understand all features and get the most out of your driving experience.
-
-## 🌍 Supported Languages
-CarPilot fully supports the following languages:
-- English
-- 简体中文 (Simplified Chinese)
-- 繁體中文 (Traditional Chinese)
-- 日本語 (Japanese)
-- 한국어 (Korean)
-- Deutsch (German)
-- Español (Spanish)
-- Français (French)
-
-*(You can change the language in **Settings > Language**)*
+> **Language / 语言**: [**English**](user-manual.md) | [**简体中文**](user-manual-zh.md)
 
 ---
+
+Welcome to **CarPilot**, your professional vehicle performance analyzer and track recorder. This manual will help you understand all features and get the most out of your driving experience.
 
 ## 📖 Table of Contents
 1. [Getting Started](#getting-started)
