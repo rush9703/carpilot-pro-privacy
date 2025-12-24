@@ -33,7 +33,6 @@ Your data is used exclusively to:
 
 You can:
 - Delete any recorded session at any time
-- Export your data in CSV format
 - Uninstall the App to remove all data
 
 ## Third-Party Services
