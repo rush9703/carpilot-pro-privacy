@@ -48,7 +48,7 @@ We may update this Privacy Policy from time to time. Changes will be reflected i
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email**: [YOUR_EMAIL_HERE]
+**Email**: [picasso9703@gmai.com]
 
 ---
 
