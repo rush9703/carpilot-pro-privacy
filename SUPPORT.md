@@ -18,4 +18,4 @@ A: Photos and videos are saved directly to the **Photos app** (system gallery) o
 
 ### Contact Us
 
-If you have any questions or need further assistance, please open an Issue in this repository.
+If you have any questions or need further assistance, please send email to picasso9703@gmail.com.
