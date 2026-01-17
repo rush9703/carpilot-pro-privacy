@@ -2,7 +2,7 @@
 
 **Last Updated**: January 18, 2026
 
-Your privacy is important to us. **CamPilot** ("we", "our", or "us") is designed to prioritize your privacy. This Privacy Policy explains how our app interacts with your data.
+Your privacy is important to us. **CamPilot** is designed to prioritize your privacy. This Privacy Policy explains how our app interacts with your data.
 
 ### 1. Data Collection
 **We do not collect, store, or share any personal data.**
